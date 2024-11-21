@@ -1,0 +1,192 @@
+.css2-frame {
+    width: 100%;
+    overflow: hidden;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #fff;
+  }
+  
+  .css2-rectangle {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+    max-width: 335px;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  
+  .css2-rectangle1 {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+    max-width: 1440px;
+  }
+  
+  .css2-text {
+    width: 100%;
+    max-width: 219px;
+    margin-top: 0;
+    min-height: 50px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text01 {
+    color: #605e5e;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-text02 {
+    width: 100%;
+    max-width: 210px;
+    margin-top: 0;
+    min-height: 50px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text03 {
+    color: #605e5e;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-text04 {
+    width: 100%;
+    max-width: 219px;
+    margin-top: 0;
+    min-height: 50px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text05 {
+    color: #605e5e;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-text06 {
+    width: 100%;
+    max-width: 988px;
+    margin-top: 0;
+    min-height: 132px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text07,
+  .css2-text08 {
+    color: #605e5e;
+    font-size: 25px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-text09 {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text10 {
+    width: 100%;
+    max-width: 988px;
+    margin-top: 0;
+    min-height: 132px;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  
+  .css2-text11,
+  .css2-text12 {
+    color: #605e5e;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: left;
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-rectangle2 {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+    max-width: 195px;
+  }
+  
+  .css2-text13 {
+    width: 100%;
+    max-width: 219px;
+    margin-top: 0;
+    min-height: 50px;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  
+  .css2-text14 {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    margin-top: 0;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .css2-rectangle3 {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+    max-width: 331px;
+  }
